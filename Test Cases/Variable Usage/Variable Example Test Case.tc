@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Variable Example Test Case</description>
+   <name>Variable Example Test Case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>06aeeedc-67d3-4839-b8d5-a129297fa6cd</testCaseGuid>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description>HRM App User Name</description>
+      <id>9eec6b85-a0b0-4101-a63a-756d6fe297c4</id>
+      <masked>false</masked>
+      <name>USER_NAME</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin123'</defaultValue>
+      <description>HRM App User Password</description>
+      <id>c849592d-669f-48e0-83b9-65e2577d5991</id>
+      <masked>false</masked>
+      <name>USER_PASSWORD</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://opensource-demo.orangehrmlive.com/'</defaultValue>
+      <description>HRM App Navigation Link</description>
+      <id>49fe7e28-6678-4e03-89cc-db81e378ccef</id>
+      <masked>false</masked>
+      <name>URL_LINK</name>
+   </variable>
+</TestCaseEntity>

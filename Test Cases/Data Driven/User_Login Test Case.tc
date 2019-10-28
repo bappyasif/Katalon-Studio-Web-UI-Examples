@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Variable Value Will Be Directly Taken From Test Data File.</description>
+   <name>User_Login Test Case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0079c072-c0d8-4bd3-a9d1-a45b535918f6</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d786f75b-9621-4edb-b598-bd17bea0719b</id>
+      <masked>false</masked>
+      <name>USER_NAME</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin123'</defaultValue>
+      <description></description>
+      <id>5a3ee780-0302-475e-955b-54689c0c866f</id>
+      <masked>false</masked>
+      <name>USER_PASSWORD</name>
+   </variable>
+</TestCaseEntity>

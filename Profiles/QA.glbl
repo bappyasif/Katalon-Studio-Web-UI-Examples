@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>QA</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Open Source HRM Solution</description>
+      <initValue>'https://opensource-demo.orangehrmlive.com'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Admin User</description>
+      <initValue>'Admin'</initValue>
+      <name>USER_NAME</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Admin Password</description>
+      <initValue>'admin123'</initValue>
+      <name>USER_PASSWORD</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

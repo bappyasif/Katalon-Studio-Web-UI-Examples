@@ -1,0 +1,26 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Data Driven Test Suite,Chrome 77.0.3865.120,HRM App User Login Using Data Driven Test Suite,,2019-10-27 21:46:28,2019-10-27 21:47:17,49.659s,INCOMPLETE
+,,,,,,,
+Test Cases/Data Driven/User Login Test Case,Chrome 77.0.3865.120,Data Driven User Login Test Case For HRM App,,2019-10-27 21:46:28,2019-10-27 21:46:46,18.059s,PASSED
+"openBrowser("""")",Chrome 77.0.3865.120,,,2019-10-27 21:46:29,2019-10-27 21:46:33,4.052s,PASSED
+navigateToUrl(NAV_LINK),Chrome 77.0.3865.120,,,2019-10-27 21:46:33,2019-10-27 21:46:41,7.663s,PASSED
+"setText(findTestObject(""Object Repository/DD_HRM/Page_OrangeHRM/input_LOGIN Panel_txtUsername""), USER_NAME)",Chrome 77.0.3865.120,,,2019-10-27 21:46:41,2019-10-27 21:46:41,0.290s,PASSED
+"setText(findTestObject(""Object Repository/DD_HRM/Page_OrangeHRM/input_Username_txtPassword""), USER_PASSWORD)",Chrome 77.0.3865.120,,,2019-10-27 21:46:41,2019-10-27 21:46:41,0.229s,PASSED
+"click(findTestObject(""Object Repository/DD_HRM/Page_OrangeHRM/input_Password_Submit""))",Chrome 77.0.3865.120,,,2019-10-27 21:46:41,2019-10-27 21:46:43,1.980s,PASSED
+closeBrowser(),Chrome 77.0.3865.120,,,2019-10-27 21:46:43,2019-10-27 21:46:44,0.741s,PASSED
+,,,,,,,
+Test Cases/Data Driven/User Login Test Case,Chrome 77.0.3865.120,Data Driven User Login Test Case For HRM App,,2019-10-27 21:46:46,2019-10-27 21:47:04,17.981s,PASSED
+"openBrowser("""")",Chrome 77.0.3865.120,,,2019-10-27 21:46:46,2019-10-27 21:46:49,2.304s,PASSED
+navigateToUrl(NAV_LINK),Chrome 77.0.3865.120,,,2019-10-27 21:46:49,2019-10-27 21:46:57,8.075s,PASSED
+"setText(findTestObject(""Object Repository/DD_HRM/Page_OrangeHRM/input_LOGIN Panel_txtUsername""), USER_NAME)",Chrome 77.0.3865.120,,,2019-10-27 21:46:57,2019-10-27 21:46:57,0.203s,PASSED
+"setText(findTestObject(""Object Repository/DD_HRM/Page_OrangeHRM/input_Username_txtPassword""), USER_PASSWORD)",Chrome 77.0.3865.120,,,2019-10-27 21:46:57,2019-10-27 21:46:57,0.224s,PASSED
+"click(findTestObject(""Object Repository/DD_HRM/Page_OrangeHRM/input_Password_Submit""))",Chrome 77.0.3865.120,,,2019-10-27 21:46:57,2019-10-27 21:47:01,4.365s,PASSED
+closeBrowser(),Chrome 77.0.3865.120,,,2019-10-27 21:47:01,2019-10-27 21:47:02,0.722s,PASSED
+,,,,,,,
+Test Cases/Data Driven/User Login Test Case,Chrome 77.0.3865.120,Data Driven User Login Test Case For HRM App,,2019-10-27 21:47:04,2019-10-27 21:47:17,13.143s,PASSED
+"openBrowser("""")",Chrome 77.0.3865.120,,,2019-10-27 21:47:04,2019-10-27 21:47:07,2.315s,PASSED
+navigateToUrl(NAV_LINK),Chrome 77.0.3865.120,,,2019-10-27 21:47:07,2019-10-27 21:47:13,5.922s,PASSED
+"setText(findTestObject(""Object Repository/DD_HRM/Page_OrangeHRM/input_LOGIN Panel_txtUsername""), USER_NAME)",Chrome 77.0.3865.120,,,2019-10-27 21:47:13,2019-10-27 21:47:13,0.203s,PASSED
+"setText(findTestObject(""Object Repository/DD_HRM/Page_OrangeHRM/input_Username_txtPassword""), USER_PASSWORD)",Chrome 77.0.3865.120,,,2019-10-27 21:47:13,2019-10-27 21:47:13,0.216s,PASSED
+"click(findTestObject(""Object Repository/DD_HRM/Page_OrangeHRM/input_Password_Submit""))",Chrome 77.0.3865.120,,,2019-10-27 21:47:13,2019-10-27 21:47:15,1.683s,PASSED
+closeBrowser(),Chrome 77.0.3865.120,,,2019-10-27 21:47:15,2019-10-27 21:47:15,0.693s,PASSED

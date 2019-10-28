@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Data Driven User Login Test Case For HRM App</description>
+   <name>User Login Test Case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f89a4e94-23f4-4ea7-8793-8f0e0cba9f02</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0e8c3b25-1a23-42b3-a74c-b22aba324a09</id>
+      <masked>false</masked>
+      <name>USER_NAME</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b88402d8-9a17-43fe-9c7b-8ee6c5cd01c9</id>
+      <masked>false</masked>
+      <name>USER_PASSWORD</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://opensource-demo.orangehrmlive.com/'</defaultValue>
+      <description></description>
+      <id>fcc39ce2-fe10-49f7-aac1-b635c75d664d</id>
+      <masked>false</masked>
+      <name>NAV_LINK</name>
+   </variable>
+</TestCaseEntity>

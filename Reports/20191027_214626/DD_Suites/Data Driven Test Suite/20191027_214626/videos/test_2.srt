@@ -1,0 +1,24 @@
+1
+00:00:00,001 --> 00:00:00,001
+1. openBrowser("")
+
+2
+00:00:02,305 --> 00:00:02,306
+5. navigateToUrl(NAV_LINK)
+
+3
+00:00:10,379 --> 00:00:10,381
+9. setText(findTestObject("Object Repository/DD_HRM/Page_OrangeHRM/input_LOGIN Panel_txtUsername"), USER_NAME)
+
+4
+00:00:10,583 --> 00:00:10,584
+13. setText(findTestObject("Object Repository/DD_HRM/Page_OrangeHRM/input_Username_txtPassword"), USER_PASSWORD)
+
+5
+00:00:10,807 --> 00:00:10,808
+17. click(findTestObject("Object Repository/DD_HRM/Page_OrangeHRM/input_Password_Submit"))
+
+6
+00:00:15,172 --> 00:00:15,173
+21. closeBrowser()
+
