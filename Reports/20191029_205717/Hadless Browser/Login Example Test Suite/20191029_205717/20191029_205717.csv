@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Login Example Test Suite,Chrome 77.0.3865.120,User Login Example Test Suite,,2019-10-29 20:57:19,2019-10-29 20:57:45,25.614s,INCOMPLETE
+,,,,,,,
+Test Cases/Headless Browser/User Login Test Case,Chrome 77.0.3865.120,Using Headless Browser Configuaration.,,2019-10-29 20:57:19,2019-10-29 20:57:45,25.357s,PASSED
+"openBrowser("""")",Chrome 77.0.3865.120,,,2019-10-29 20:57:20,2019-10-29 20:57:25,4.483s,PASSED
+"navigateToUrl(""https://opensource-demo.orangehrmlive.com/"")",Chrome 77.0.3865.120,,,2019-10-29 20:57:25,2019-10-29 20:57:30,4.715s,PASSED
+"click(findTestObject(""Object Repository/Headless Browser/Page_OrangeHRM/span_Username""))",Chrome 77.0.3865.120,,,2019-10-29 20:57:30,2019-10-29 20:57:30,0.275s,PASSED
+"setText(findTestObject(""Object Repository/Headless Browser/Page_OrangeHRM/input_LOGIN Panel_txtUsername""), ""Admin"")",Chrome 77.0.3865.120,,,2019-10-29 20:57:30,2019-10-29 20:57:30,0.242s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Headless Browser/Page_OrangeHRM/input_Username_txtPassword""), ""hUKwJTbofgPU9eVlw/CnDQ=="")",Chrome 77.0.3865.120,,,2019-10-29 20:57:30,2019-10-29 20:57:30,0.276s,PASSED
+"click(findTestObject(""Object Repository/Headless Browser/Page_OrangeHRM/input_Password_Submit""))",Chrome 77.0.3865.120,,,2019-10-29 20:57:30,2019-10-29 20:57:34,3.876s,PASSED
+"click(findTestObject(""Object Repository/Headless Browser/Page_OrangeHRM/b_Admin""))",Chrome 77.0.3865.120,,,2019-10-29 20:57:34,2019-10-29 20:57:39,5.195s,PASSED
+"click(findTestObject(""Object Repository/Headless Browser/Page_OrangeHRM/b_Recruitment""))",Chrome 77.0.3865.120,,,2019-10-29 20:57:39,2019-10-29 20:57:41,1.773s,PASSED
+"click(findTestObject(""Object Repository/Headless Browser/Page_OrangeHRM/b_Dashboard""))",Chrome 77.0.3865.120,,,2019-10-29 20:57:41,2019-10-29 20:57:42,0.571s,PASSED
+"click(findTestObject(""Object Repository/Headless Browser/Page_OrangeHRM/a_Welcome Admin""))",Chrome 77.0.3865.120,,,2019-10-29 20:57:42,2019-10-29 20:57:42,0.159s,PASSED
+closeBrowser(),Chrome 77.0.3865.120,,,2019-10-29 20:57:42,2019-10-29 20:57:43,0.606s,PASSED

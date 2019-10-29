@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Using Headless Browser Configuaration.</description>
+   <name>User Login Test Case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f06877bc-d33a-4961-bf7b-02a151c95b8a</testCaseGuid>
+</TestCaseEntity>

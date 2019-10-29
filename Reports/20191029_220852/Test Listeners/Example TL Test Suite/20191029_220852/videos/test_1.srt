@@ -1,0 +1,10 @@
+5
+00:00:02,426 --> 00:00:02,427
+1. println("
+ Within onTestSuiteFinish 
+")
+
+6
+00:00:02,435 --> 00:00:02,436
+1. println(testSuiteContext.getTestSuiteId())
+

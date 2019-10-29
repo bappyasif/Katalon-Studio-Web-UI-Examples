@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Example TL Test Suite,,Example Test Listener Test Suite,,2019-10-29 22:16:56,2019-10-29 22:17:00,3.565s,INCOMPLETE
+,,,,,,,
+Test Cases/Test Listenerrs/Example TL Test Case,,Example Test Listener Test Case,,2019-10-29 22:16:57,2019-10-29 22:17:00,2.905s,PASSED
+Start listener action : sampleBeforeTestCase,,,,2019-10-29 22:16:57,2019-10-29 22:16:57,0.012s,PASSED
+Start listener action : onTestCaseStart,,,,2019-10-29 22:16:57,2019-10-29 22:16:57,0.002s,PASSED
+Start setup action : setupTestCase,,,,2019-10-29 22:16:57,2019-10-29 22:16:57,0.026s,PASSED
+"println(""Test Listener Test Case"")",,,,2019-10-29 22:16:58,2019-10-29 22:16:58,0.010s,PASSED
+Start tear down : tearDownTestCase,,,,2019-10-29 22:16:58,2019-10-29 22:16:58,0.061s,PASSED
+Start listener action : onTestCaseFinish,,,,2019-10-29 22:16:58,2019-10-29 22:16:58,0.022s,PASSED
+Start listener action : sampleAfterTestCase,,,,2019-10-29 22:16:58,2019-10-29 22:16:58,0.041s,PASSED
