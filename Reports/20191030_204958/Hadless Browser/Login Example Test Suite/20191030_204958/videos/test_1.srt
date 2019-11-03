@@ -1,0 +1,28 @@
+1
+00:00:00,260 --> 00:00:00,262
+1. openBrowser("")
+
+2
+00:00:03,463 --> 00:00:03,464
+1. println("
+ Within onTestCaseFinish 
+")
+
+3
+00:00:03,473 --> 00:00:03,474
+1. println(testCaseContext.getTestCaseId())
+
+4
+00:00:03,483 --> 00:00:03,484
+5. println(testCaseContext.getTestCaseStatus())
+
+5
+00:00:05,520 --> 00:00:05,520
+1. println("
+ Within onTestSuiteFinish 
+")
+
+6
+00:00:05,527 --> 00:00:05,527
+1. println(testSuiteContext.getTestSuiteId())
+

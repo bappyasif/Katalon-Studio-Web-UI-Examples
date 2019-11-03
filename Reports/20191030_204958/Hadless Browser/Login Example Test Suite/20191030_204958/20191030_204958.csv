@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Login Example Test Suite,,User Login Example Test Suite,,2019-10-30 20:50:01,2019-10-30 20:50:07,6.149s,INCOMPLETE
+,,,,,,,
+Test Cases/Headless Browser/User Login Test Case,,Using Headless Browser Configuaration.,,2019-10-30 20:50:01,2019-10-30 20:50:07,5.784s,FAILED
+Start listener action : sampleBeforeTestCase,,,,2019-10-30 20:50:01,2019-10-30 20:50:01,0.013s,PASSED
+Start listener action : onTestCaseStart,,,,2019-10-30 20:50:01,2019-10-30 20:50:01,0.002s,PASSED
+"openBrowser("""")",,,,2019-10-30 20:50:02,2019-10-30 20:50:05,3.124s,FAILED
+Start listener action : onTestCaseFinish,,,,2019-10-30 20:50:05,2019-10-30 20:50:05,0.010s,PASSED
+Start listener action : sampleAfterTestCase,,,,2019-10-30 20:50:05,2019-10-30 20:50:05,0.021s,PASSED

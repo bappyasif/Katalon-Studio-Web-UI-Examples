@@ -1232,7 +1232,6 @@
   <message>End Test Suite : Test Suites/DD_Suites/Data Driven Test Suite</message>
   <nestedLevel>0</nestedLevel>
 </record>
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE log SYSTEM "logger.dtd">
 <record>
   <date>2019-10-28T21:41:50</date>
