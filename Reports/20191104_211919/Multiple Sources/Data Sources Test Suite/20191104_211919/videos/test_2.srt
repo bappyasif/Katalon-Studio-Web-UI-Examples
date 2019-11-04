@@ -1,0 +1,36 @@
+1
+00:00:00,001 --> 00:00:00,001
+1. openBrowser("")
+
+2
+00:00:02,363 --> 00:00:02,364
+5. navigateToUrl(URL_Address)
+
+3
+00:00:04,180 --> 00:00:04,181
+9. setText(findTestObject("Object Repository/Data Sources/Page_OrangeHRM/input_LOGIN Panel_txtUsername"), u_Name)
+
+4
+00:00:35,486 --> 00:00:35,486
+1. println("
+ Within onTestCaseFinish 
+")
+
+5
+00:00:35,496 --> 00:00:35,497
+1. println(testCaseContext.getTestCaseId())
+
+6
+00:00:35,506 --> 00:00:35,507
+5. println(testCaseContext.getTestCaseStatus())
+
+7
+00:00:37,611 --> 00:00:37,611
+1. println("
+ Within onTestSuiteFinish 
+")
+
+8
+00:00:37,618 --> 00:00:37,619
+1. println(testSuiteContext.getTestSuiteId())
+

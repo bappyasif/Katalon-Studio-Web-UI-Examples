@@ -1,0 +1,26 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Data Sources Test Suite,Chrome 78.0.3904.87,Multiple Data Sources Test Suite Example,,2019-11-04 21:22:57,2019-11-04 21:23:53,56.215s,INCOMPLETE
+,,,,,,,
+Test Cases/From Multiple Data Sources/Login Logout Test Case,Chrome 78.0.3904.87,User Login Logout Test Case Example,,2019-11-04 21:22:58,2019-11-04 21:23:16,17.872s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 78.0.3904.87,,,2019-11-04 21:22:58,2019-11-04 21:22:58,0.010s,PASSED
+Start listener action : onTestCaseStart,Chrome 78.0.3904.87,,,2019-11-04 21:22:58,2019-11-04 21:22:58,0.000s,PASSED
+"openBrowser("""")",Chrome 78.0.3904.87,,,2019-11-04 21:22:58,2019-11-04 21:23:02,4.019s,PASSED
+navigateToUrl(URL_Address),Chrome 78.0.3904.87,,,2019-11-04 21:23:02,2019-11-04 21:23:07,4.355s,PASSED
+"setText(findTestObject(""Object Repository/Data Sources/Page_OrangeHRM/input_LOGIN Panel_txtUsername""), u_Name)",Chrome 78.0.3904.87,,,2019-11-04 21:23:07,2019-11-04 21:23:07,0.266s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Data Sources/Page_OrangeHRM/input_Username_txtPassword""), u_Password)",Chrome 78.0.3904.87,,,2019-11-04 21:23:07,2019-11-04 21:23:07,0.245s,PASSED
+"click(findTestObject(""Object Repository/Data Sources/Page_OrangeHRM/input_Password_Submit""))",Chrome 78.0.3904.87,,,2019-11-04 21:23:07,2019-11-04 21:23:10,2.532s,PASSED
+"click(findTestObject(""Object Repository/Data Sources/Page_OrangeHRM/a_Welcome Admin""))",Chrome 78.0.3904.87,,,2019-11-04 21:23:10,2019-11-04 21:23:10,0.194s,PASSED
+"waitForElementPresent(findTestObject(""Data Sources/Page_OrangeHRM/a_Logout""), 2)",Chrome 78.0.3904.87,,,2019-11-04 21:23:10,2019-11-04 21:23:10,0.197s,PASSED
+"click(findTestObject(""Object Repository/Data Sources/Page_OrangeHRM/a_Logout""))",Chrome 78.0.3904.87,,,2019-11-04 21:23:10,2019-11-04 21:23:13,2.629s,PASSED
+closeBrowser(),Chrome 78.0.3904.87,,,2019-11-04 21:23:13,2019-11-04 21:23:13,0.806s,PASSED
+Start listener action : onTestCaseFinish,Chrome 78.0.3904.87,,,2019-11-04 21:23:13,2019-11-04 21:23:13,0.003s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 78.0.3904.87,,,2019-11-04 21:23:13,2019-11-04 21:23:13,0.026s,PASSED
+,,,,,,,
+Test Cases/From Multiple Data Sources/Login Logout Test Case,Chrome 78.0.3904.87,User Login Logout Test Case Example,,2019-11-04 21:23:16,2019-11-04 21:23:53,37.912s,FAILED
+Start listener action : sampleBeforeTestCase,Chrome 78.0.3904.87,,,2019-11-04 21:23:16,2019-11-04 21:23:16,0.016s,PASSED
+Start listener action : onTestCaseStart,Chrome 78.0.3904.87,,,2019-11-04 21:23:16,2019-11-04 21:23:16,0.000s,PASSED
+"openBrowser("""")",Chrome 78.0.3904.87,,,2019-11-04 21:23:16,2019-11-04 21:23:18,2.341s,PASSED
+navigateToUrl(URL_Address),Chrome 78.0.3904.87,,,2019-11-04 21:23:18,2019-11-04 21:23:20,1.979s,PASSED
+"setText(findTestObject(""Object Repository/Data Sources/Page_OrangeHRM/input_LOGIN Panel_txtUsername""), u_Name)",Chrome 78.0.3904.87,,,2019-11-04 21:23:20,2019-11-04 21:23:51,31.387s,FAILED
+Start listener action : onTestCaseFinish,Chrome 78.0.3904.87,,,2019-11-04 21:23:51,2019-11-04 21:23:51,0.016s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 78.0.3904.87,,,2019-11-04 21:23:51,2019-11-04 21:23:51,0.019s,PASSED

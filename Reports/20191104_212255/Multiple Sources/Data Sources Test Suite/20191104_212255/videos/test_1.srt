@@ -1,0 +1,14 @@
+13
+00:00:17,666 --> 00:00:17,666
+1. println(testCaseContext.getTestCaseId())
+
+14
+00:00:17,674 --> 00:00:17,674
+5. println(testCaseContext.getTestCaseVariables())
+
+15
+00:00:17,681 --> 00:00:17,681
+1. println("
+ Within onTestCaseStart 
+")
+
